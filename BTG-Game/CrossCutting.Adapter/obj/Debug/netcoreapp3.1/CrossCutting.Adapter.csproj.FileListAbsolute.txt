@@ -1,0 +1,15 @@
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\CrossCutting.Adapter.deps.json
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\CrossCutting.Adapter.dll
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\CrossCutting.Adapter.pdb
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Application.dll
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.AssemblyInfo.cs
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.csproj.CopyComplete
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.dll
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\obj\Debug\netcoreapp3.1\CrossCutting.Adapter.pdb
+C:\Projetos\btg-game\BTG-Game\CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Application.xml

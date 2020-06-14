@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Application</name>
+    </assembly>
+    <members>
+        <member name="P:Application.DTOs.GameDTO.FirstPlayerName">
+            <summary>
+            Nome do primeiro jogador.
+            </summary>
+        </member>
+        <member name="P:Application.DTOs.GameDTO.FirstPlayerElement">
+            <summary>
+            Elementos permitidos: "pedra", "papel", "tesoura", "spock", "lagarto".
+            </summary>
+        </member>
+        <member name="P:Application.DTOs.GameDTO.SecondPlayerName">
+            <summary>
+            Nome do segundo jogador.
+            </summary>
+        </member>
+        <member name="P:Application.DTOs.GameDTO.SecondPlayerElement">
+            <summary>
+            Elementos permitidos: "pedra", "papel", "tesoura", "spock", "lagarto".
+            </summary>
+        </member>
+    </members>
+</doc>

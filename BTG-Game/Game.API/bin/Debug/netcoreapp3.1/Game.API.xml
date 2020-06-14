@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Game.API</name>
+    </assembly>
+    <members>
+        <member name="M:Game.API.Controllers.GameController.Post(Application.DTOs.GameDTO)">
+            <summary>
+            Processa as entradas enviadas como parâmetro e retorna qual jogador é o vencedor da partida.
+            </summary>
+            <param name="game">Objeto que contém os nomes e elementos selecionados pelos dois jogadores.</param>
+            <response code="200">O resultado do jogo foi processado com sucesso!</response>
+            <response code="400">A requisição foi enviada com valores inválidos. Analise a aba "Schemes" para obter exemplos.</response>
+            <response code="500">Ocorreu um erro inexperado ao processar o jogo.</response>
+        </member>
+        <member name="M:Game.API.Controllers.HistoryController.Get">
+            <summary>
+            Retorna todo o histórico de jogos, ordenados do mais recente para o mais antigo.
+            </summary>
+            <response code="200">A listagem do histórico foi retornada com sucesso!</response>
+            <response code="500">Ocorreu um erro inexperado ao listar o histórico.</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Projetos\btg-game\BTG-Game\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Projetos\btg-game\BTG-Game\Application\bin\Debug\netcoreapp3.1\Application.xml
